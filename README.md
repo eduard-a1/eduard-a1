@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### 👋 Hello, everyone!
 
-I'm a computer science undergraduate at the University of Central Florida.
+My name is Eduard Uy and I am a computer science undergraduate at the University of Central Florida.
 
 I have proficiencies in:
 <p>
@@ -34,7 +34,7 @@ I have proficiencies in:
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-I have heavy interests in learning more about machine learning, data learning, game development and AI.
+I have heavy interests in learning more about machine learning, game development and AI.
 
 Reach me through my socials:
 <p> 
@@ -47,4 +47,4 @@ Reach me through my socials:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eduard-a1&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
 
-Thank you.
+Thank you for visiting!
