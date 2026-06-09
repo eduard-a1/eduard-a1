@@ -39,7 +39,7 @@ I have heavy interests in learning more about machine learning, data learning, g
 Reach me through my socials:
 <p> 
   <img alt="Email" src="https://img.shields.io/badge/-gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-linkedIn?style=flat-square&logo=gmail&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Feduard-uy%2F%3FskipRedirect%3Dtrue" />
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-linkedIn-?style=flat-square&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Feduard-uy%2F%3FskipRedirect%3Dtrue" />
 </p>
 
 Thank you.
