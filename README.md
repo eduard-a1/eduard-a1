@@ -49,3 +49,5 @@ Reach me through my socials:
 
 
 Thank you for visiting!
+
+![](https://komarev.com/ghpvc/?username=eduard-ai&color=red)
