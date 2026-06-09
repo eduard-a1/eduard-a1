@@ -46,6 +46,7 @@ Reach me through my socials:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eduard-a1&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=eduard-a1&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+[![Eduard's GitHub stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Thank you.
