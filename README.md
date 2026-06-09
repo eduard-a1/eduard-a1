@@ -26,6 +26,7 @@ I have proficiencies in:
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-adobe%20photoshop-30a8ff?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
+  <img alt="Unreal Engine" src="https://img.shields.io/badge/-unreal%20photoshop-0E1128?style=flat-square&logo=unreal%20engine&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -33,12 +34,12 @@ I have proficiencies in:
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-I have experience in game development programs such as Unity and Unreal Engine 5.
-
-I have created projects that involved LAMP stack and game development, especially in the API and scripting divisions.
-
 I have heavy interests in learning more about machine learning, data learning, game development and AI.
 
-You can reach me via email: ecuy0705@gmail.com
+Reach me through my socials:
+<p> 
+  <img alt="Email" src="https://img.shields.io/badge/-gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-linkedIn?style=flat-square&logo=gmail&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Feduard-uy%2F%3FskipRedirect%3Dtrue" />
+</p>
 
 Thank you.
