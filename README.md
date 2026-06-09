@@ -38,7 +38,7 @@ I have heavy interests in learning more about machine learning, data learning, g
 
 Reach me through my socials:
 <p> 
-  <img alt="Email" src="https://img.shields.io/badge/-gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <img alt="Email" src="https://img.shields.io/badge/-ecuy0705@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </p>
 
 
