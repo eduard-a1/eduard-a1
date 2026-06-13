@@ -39,7 +39,7 @@ I have heavy interests in learning more about machine learning, game development
 Reach me through my socials:
 <p> 
   <img alt="Email" src="https://img.shields.io/badge/-ecuy0705@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/linkedin%2ecom%2fin%2feduarduy-1578D3?style=flat-square" />
+  <img src="https://img.shields.io/badge/linkedin%2ecom%2fin%2feduard--uy-1578D3?style=flat-square" />
 </p>
 
 
